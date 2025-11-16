@@ -1,0 +1,673 @@
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) xform=0x04 time=871868.4752 scale=SCALE_TO_WINDOW
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)    10:0xdea65440     
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) crop=[0,0,0,0]       
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) xform=0x04 time=871868.5254 scale=SCALE_TO_WINDOW
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)    11:0xdea67100     
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) crop=[0,0,0,0]       
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) xform=0x04 time=871868.5755 scale=SCALE_TO_WINDOW
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)    04:0xa931dba0     
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) crop=[0,0,0,0]       
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) xform=0x04 time=871868.6256 scale=SCALE_TO_WINDOW
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)    05:0xa960b680     
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) crop=[0,0,0,0]       
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) xform=0x04 time=871868.6758 scale=SCALE_TO_WINDOW
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) dumpState2 Slots:    
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) dumpState2  [00:0xdea65080]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) state=QUEUED   0xa9a36100 frame=314
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)  [ 320x 240: 320, 23]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) dumpState2 >[01:0xedf52dc0]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) state=ACQUIRED 0xdf16ec80 frame=313
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)  [ 320x 240: 320, 23]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) dumpState2  [02:0xedf52e60]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) state=QUEUED   0xdf17db40 frame=318
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)  [ 320x 240: 320, 23]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) dumpState2  [03:0xa931c980]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) state=QUEUED   0xdf17e740 frame=320
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)  [ 320x 240: 320, 23]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) dumpState2  [04:0xa931dba0]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) state=QUEUED   0xdf17df00 frame=323
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)  [ 320x 240: 320, 23]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) dumpState2  [05:0xa960b680]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) state=QUEUED   0xdf17dfc0 frame=324
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)  [ 320x 240: 320, 23]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) dumpState2  [06:0xa960bb80]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) state=QUEUED   0xdf17e8c0 frame=316
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)  [ 320x 240: 320, 23]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) dumpState2  [07:0xa960be00]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) state=QUEUED   0xdf17e980 frame=317
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)  [ 320x 240: 320, 23]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) dumpState2  [08:0xa960cee0]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) state=QUEUED   0xdf17ea40 frame=315
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)  [ 320x 240: 320, 23]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) dumpState2  [09:0xa960e1a0]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) state=QUEUED   0xdf17eb00 frame=319
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)  [ 320x 240: 320, 23]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) dumpState2  [10:0xdea65440]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) state=QUEUED   0xdf17ebc0 frame=321
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)  [ 320x 240: 320, 23]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) dumpState2  [11:0xdea67100]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) state=QUEUED   0xdf17ed40 frame=322
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)  [ 320x 240: 320, 23]
+E/BufferQueueProducer( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) SPRDDEBUG BufferQueueProducer Dumpstate2
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) dumpState2- BufferQueue
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) mMaxAcquiredBufferCount=4 mMaxDequeuedBufferCount=8
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) dumpState2  mDequeueBufferCannotBlock=0 mAsyncMode=0
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) dumpState2  default-size=[320x240] default-format=35
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) transform-hint=00 frame-counter=346
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)
+E/BufferQueueCore( 1281): dumpState2 FIFO(11):
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)    05:0xa960b680     
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) crop=[0,0,0,0]       
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) xform=0x04 time=871872.0848 scale=SCALE_TO_WINDOW
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)    00:0xdea65080 
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) crop=[0,0,0,0]       
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) xform=0x04 time=871872.1349 scale=SCALE_TO_WINDOW
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)    01:0xedf52dc0     
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) crop=[0,0,0,0]       
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) xform=0x04 time=871872.1851 scale=SCALE_TO_WINDOW
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)    08:0xa960cee0     
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) crop=[0,0,0,0]       
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) xform=0x04 time=871872.2352 scale=SCALE_TO_WINDOW
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)    06:0xa960bb80     
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) crop=[0,0,0,0]       
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) xform=0x04 time=871872.2853 scale=SCALE_TO_WINDOW
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)    07:0xa960be00     
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) crop=[0,0,0,0]       
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) xform=0x04 time=871872.3355 scale=SCALE_TO_WINDOW
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)    02:0xedf52e60     
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) crop=[0,0,0,0]       
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) xform=0x04 time=871872.3856 scale=SCALE_TO_WINDOW
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)    09:0xa960e1a0     
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) crop=[0,0,0,0] 
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) xform=0x04 time=871872.4357 scale=SCALE_TO_WINDOW
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)    03:0xa931c980     
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) crop=[0,0,0,0]       
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) xform=0x04 time=871872.4859 scale=SCALE_TO_WINDOW
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)    10:0xdea65440     
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) crop=[0,0,0,0]       
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) xform=0x04 time=871872.5360 scale=SCALE_TO_WINDOW
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)    11:0xdea67100     
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) crop=[0,0,0,0]       
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) xform=0x04 time=871872.5861 scale=SCALE_TO_WINDOW
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) dumpState2 Slots:    
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) dumpState2  [00:0xdea65080]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) state=QUEUED   0xa9a36100 frame=337
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)  [ 320x 240: 320, 23]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) dumpState2  [01:0xedf52dc0]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) state=QUEUED   0xdf16ec80 frame=338
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)  [ 320x 240: 320, 23]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) dumpState2  [02:0xedf52e60]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) state=QUEUED   0xdf17db40 frame=342
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)  [ 320x 240: 320, 23]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) dumpState2  [03:0xa931c980]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) state=QUEUED   0xdf17e740 frame=344
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)  [ 320x 240: 320, 23]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) dumpState2 >[04:0xa931dba0]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) state=ACQUIRED 0xdf17df00 frame=335
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)  [ 320x 240: 320, 23]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) dumpState2  [05:0xa960b680]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) state=QUEUED   0xdf17dfc0 frame=336
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)  [ 320x 240: 320, 23]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) dumpState2  [06:0xa960bb80]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) state=QUEUED   0xdf17e8c0 frame=340
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)  [ 320x 240: 320, 23]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) dumpState2  [07:0xa960be00]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) state=QUEUED   0xdf17e980 frame=341
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)  [ 320x 240: 320, 23]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) dumpState2  [08:0xa960cee0]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) state=QUEUED   0xdf17ea40 frame=339
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)  [ 320x 240: 320, 23]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) dumpState2  [09:0xa960e1a0]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) state=QUEUED   0xdf17eb00 frame=343
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)  [ 320x 240: 320, 23]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) dumpState2  [10:0xdea65440]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) state=QUEUED   0xdf17ebc0 frame=345
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)  [ 320x 240: 320, 23]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) dumpState2  [11:0xdea67100]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) state=QUEUED   0xdf17ed40 frame=346
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)  [ 320x 240: 320, 23]
+E/BufferQueueProducer( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) SPRDDEBUG BufferQueueProducer Dumpstate2
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) dumpState2- BufferQueue
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) mMaxAcquiredBufferCount=4 mMaxDequeuedBufferCount=8
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) dumpState2  mDequeueBufferCannotBlock=0 mAsyncMode=0
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) dumpState2  default-size=[320x240] default-format=35
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) transform-hint=00 frame-counter=346
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) 
+E/BufferQueueCore( 1281): dumpState2 FIFO(11):
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)    05:0xa960b680     
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) crop=[0,0,0,0]       
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) xform=0x04 time=871872.0848 scale=SCALE_TO_WINDOW
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)    00:0xdea65080     
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) crop=[0,0,0,0]       
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) xform=0x04 time=871872.1349 scale=SCALE_TO_WINDOW
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)    01:0xedf52dc0     
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) crop=[0,0,0,0]       
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) xform=0x04 time=871872.1851 scale=SCALE_TO_WINDOW
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)    08:0xa960cee0     
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) crop=[0,0,0,0] 
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) xform=0x04 time=871872.2352 scale=SCALE_TO_WINDOW
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)    06:0xa960bb80     
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) crop=[0,0,0,0]       
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) xform=0x04 time=871872.2853 scale=SCALE_TO_WINDOW
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)    07:0xa960be00     
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) crop=[0,0,0,0]       
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) xform=0x04 time=871872.3355 scale=SCALE_TO_WINDOW
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)    02:0xedf52e60     
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) crop=[0,0,0,0]       
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) xform=0x04 time=871872.3856 scale=SCALE_TO_WINDOW
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)    09:0xa960e1a0     
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) crop=[0,0,0,0]       
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) xform=0x04 time=871872.4357 scale=SCALE_TO_WINDOW
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)    03:0xa931c980     
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) crop=[0,0,0,0]       
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) xform=0x04 time=871872.4859 scale=SCALE_TO_WINDOW
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)    10:0xdea65440     
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) crop=[0,0,0,0]       
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) xform=0x04 time=871872.5360 scale=SCALE_TO_WINDOW
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)    11:0xdea67100     
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) crop=[0,0,0,0]       
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) xform=0x04 time=871872.5861 scale=SCALE_TO_WINDOW
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) dumpState2 Slots:    
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) dumpState2  [00:0xdea65080]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) state=QUEUED   0xa9a36100 frame=337
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)  [ 320x 240: 320, 23]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) dumpState2  [01:0xedf52dc0]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) state=QUEUED   0xdf16ec80 frame=338
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)  [ 320x 240: 320, 23]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) dumpState2  [02:0xedf52e60]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) state=QUEUED   0xdf17db40 frame=342
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)  [ 320x 240: 320, 23]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) dumpState2  [03:0xa931c980]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) state=QUEUED   0xdf17e740 frame=344
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)  [ 320x 240: 320, 23]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) dumpState2 >[04:0xa931dba0]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) state=ACQUIRED 0xdf17df00 frame=335
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)  [ 320x 240: 320, 23]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) dumpState2  [05:0xa960b680]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) state=QUEUED   0xdf17dfc0 frame=336
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)  [ 320x 240: 320, 23]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) dumpState2  [06:0xa960bb80]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) state=QUEUED   0xdf17e8c0 frame=340
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)  [ 320x 240: 320, 23]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) dumpState2  [07:0xa960be00]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) state=QUEUED   0xdf17e980 frame=341
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)  [ 320x 240: 320, 23]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) dumpState2  [08:0xa960cee0]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) state=QUEUED   0xdf17ea40 frame=339
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)  [ 320x 240: 320, 23]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) dumpState2  [09:0xa960e1a0]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) state=QUEUED   0xdf17eb00 frame=343
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)  [ 320x 240: 320, 23]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) dumpState2  [10:0xdea65440]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) state=QUEUED   0xdf17ebc0 frame=345
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)  [ 320x 240: 320, 23]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) dumpState2  [11:0xdea67100]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) state=QUEUED   0xdf17ed40 frame=346
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)  [ 320x 240: 320, 23]
+E/BufferQueueProducer( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) SPRDDEBUG BufferQueueProducer Dumpstate2
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) dumpState2- BufferQueue
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) mMaxAcquiredBufferCount=4 mMaxDequeuedBufferCount=8
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) dumpState2  mDequeueBufferCannotBlock=0 mAsyncMode=0
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) dumpState2  default-size=[320x240] default-format=35
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) transform-hint=00 frame-counter=367
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)
+E/BufferQueueCore( 1281): dumpState2 FIFO(11):
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)    10:0xdea65440     
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) crop=[0,0,0,0]       
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) xform=0x04 time=871875.9451 scale=SCALE_TO_WINDOW
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)    11:0xdea67100     
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) crop=[0,0,0,0]       
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) xform=0x04 time=871875.9952 scale=SCALE_TO_WINDOW
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)    04:0xa931dba0     
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) crop=[0,0,0,0]       
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) xform=0x04 time=871876.0453 scale=SCALE_TO_WINDOW
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)    05:0xa960b680     
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) crop=[0,0,0,0]       
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) xform=0x04 time=871876.0955 scale=SCALE_TO_WINDOW
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)    00:0xdea65080     
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) crop=[0,0,0,0]       
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) xform=0x04 time=871876.1456 scale=SCALE_TO_WINDOW
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)    01:0xedf52dc0     
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) crop=[0,0,0,0]       
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) xform=0x04 time=871876.1957 scale=SCALE_TO_WINDOW
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)    08:0xa960cee0     
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) crop=[0,0,0,0]       
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) xform=0x04 time=871876.2459 scale=SCALE_TO_WINDOW
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)    06:0xa960bb80 
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) crop=[0,0,0,0]       
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) xform=0x04 time=871876.2960 scale=SCALE_TO_WINDOW
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)    07:0xa960be00     
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) crop=[0,0,0,0]       
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) xform=0x04 time=871876.3461 scale=SCALE_TO_WINDOW
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)    02:0xedf52e60     
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) crop=[0,0,0,0]       
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) xform=0x04 time=871876.3963 scale=SCALE_TO_WINDOW
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)    09:0xa960e1a0     
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) crop=[0,0,0,0]       
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) xform=0x04 time=871876.4464 scale=SCALE_TO_WINDOW
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) dumpState2 Slots:    
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) dumpState2  [00:0xdea65080]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) state=QUEUED   0xa9a36100 frame=361
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)  [ 320x 240: 320, 23]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) dumpState2  [01:0xedf52dc0]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) state=QUEUED   0xdf16ec80 frame=362
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)  [ 320x 240: 320, 23]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) dumpState2  [02:0xedf52e60]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) state=QUEUED   0xdf17db40 frame=366
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)  [ 320x 240: 320, 23]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) dumpState2 >[03:0xa931c980]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) state=ACQUIRED 0xdf17e740 frame=356
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)  [ 320x 240: 320, 23]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) dumpState2  [04:0xa931dba0]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) state=QUEUED   0xdf17df00 frame=359
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)  [ 320x 240: 320, 23]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) dumpState2  [05:0xa960b680]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) state=QUEUED   0xdf17dfc0 frame=360
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)  [ 320x 240: 320, 23]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) dumpState2  [06:0xa960bb80]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) state=QUEUED   0xdf17e8c0 frame=364
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)  [ 320x 240: 320, 23]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) dumpState2  [07:0xa960be00]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) state=QUEUED   0xdf17e980 frame=365
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)  [ 320x 240: 320, 23]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) dumpState2  [08:0xa960cee0]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) state=QUEUED   0xdf17ea40 frame=363
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)  [ 320x 240: 320, 23]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) dumpState2  [09:0xa960e1a0]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) state=QUEUED   0xdf17eb00 frame=367
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)  [ 320x 240: 320, 23]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) dumpState2  [10:0xdea65440]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) state=QUEUED   0xdf17ebc0 frame=357
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)  [ 320x 240: 320, 23]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) dumpState2  [11:0xdea67100]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) state=QUEUED   0xdf17ed40 frame=358
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)  [ 320x 240: 320, 23]
+E/BufferQueueProducer( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) SPRDDEBUG BufferQueueProducer Dumpstate2
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) dumpState2- BufferQueue
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) mMaxAcquiredBufferCount=4 mMaxDequeuedBufferCount=8
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) dumpState2  mDequeueBufferCannotBlock=0 mAsyncMode=0
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) dumpState2  default-size=[320x240] default-format=35
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) transform-hint=00 frame-counter=367
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)
+E/BufferQueueCore( 1281): dumpState2 FIFO(11):
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)    10:0xdea65440     
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) crop=[0,0,0,0]       
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) xform=0x04 time=871875.9451 scale=SCALE_TO_WINDOW
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)    11:0xdea67100     
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) crop=[0,0,0,0]       
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) xform=0x04 time=871875.9952 scale=SCALE_TO_WINDOW
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)    04:0xa931dba0     
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) crop=[0,0,0,0]       
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) xform=0x04 time=871876.0453 scale=SCALE_TO_WINDOW
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)    05:0xa960b680     
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) crop=[0,0,0,0]       
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) xform=0x04 time=871876.0955 scale=SCALE_TO_WINDOW
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)    00:0xdea65080     
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) crop=[0,0,0,0]       
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) xform=0x04 time=871876.1456 scale=SCALE_TO_WINDOW
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)    01:0xedf52dc0     
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) crop=[0,0,0,0]       
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) xform=0x04 time=871876.1957 scale=SCALE_TO_WINDOW
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)    08:0xa960cee0     
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) crop=[0,0,0,0]       
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) xform=0x04 time=871876.2459 scale=SCALE_TO_WINDOW
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)    06:0xa960bb80 
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) crop=[0,0,0,0]       
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) xform=0x04 time=871876.2960 scale=SCALE_TO_WINDOW
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)    07:0xa960be00     
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) crop=[0,0,0,0]       
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) xform=0x04 time=871876.3461 scale=SCALE_TO_WINDOW
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)    02:0xedf52e60     
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) crop=[0,0,0,0]       
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) xform=0x04 time=871876.3963 scale=SCALE_TO_WINDOW
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)    09:0xa960e1a0     
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) crop=[0,0,0,0]       
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) xform=0x04 time=871876.4464 scale=SCALE_TO_WINDOW
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) dumpState2 Slots:    
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) dumpState2  [00:0xdea65080]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) state=QUEUED   0xa9a36100 frame=361
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)  [ 320x 240: 320, 23]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) dumpState2  [01:0xedf52dc0]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) state=QUEUED   0xdf16ec80 frame=362
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)  [ 320x 240: 320, 23]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) dumpState2  [02:0xedf52e60]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) state=QUEUED   0xdf17db40 frame=366
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)  [ 320x 240: 320, 23]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) dumpState2 >[03:0xa931c980]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) state=ACQUIRED 0xdf17e740 frame=356
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)  [ 320x 240: 320, 23]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) dumpState2  [04:0xa931dba0]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) state=QUEUED   0xdf17df00 frame=359
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)  [ 320x 240: 320, 23]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) dumpState2  [05:0xa960b680]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) state=QUEUED   0xdf17dfc0 frame=360
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)  [ 320x 240: 320, 23]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) dumpState2  [06:0xa960bb80]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) state=QUEUED   0xdf17e8c0 frame=364
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)  [ 320x 240: 320, 23]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) dumpState2  [07:0xa960be00]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) state=QUEUED   0xdf17e980 frame=365
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)  [ 320x 240: 320, 23]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) dumpState2  [08:0xa960cee0]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) state=QUEUED   0xdf17ea40 frame=363
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)  [ 320x 240: 320, 23]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) dumpState2  [09:0xa960e1a0]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) state=QUEUED   0xdf17eb00 frame=367
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)  [ 320x 240: 320, 23]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) dumpState2  [10:0xdea65440]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) state=QUEUED   0xdf17ebc0 frame=357
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)  [ 320x 240: 320, 23]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) dumpState2  [11:0xdea67100]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) state=QUEUED   0xdf17ed40 frame=358
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)  [ 320x 240: 320, 23]
+E/BufferQueueProducer( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) SPRDDEBUG BufferQueueProducer Dumpstate2
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) dumpState2- BufferQueue
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) mMaxAcquiredBufferCount=4 mMaxDequeuedBufferCount=8
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) dumpState2  mDequeueBufferCannotBlock=0 mAsyncMode=0
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) dumpState2  default-size=[320x240] default-format=35
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) transform-hint=00 frame-counter=388
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)
+E/BufferQueueCore( 1281): dumpState2 FIFO(11):
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)    02:0xedf52e60     
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) crop=[0,0,0,0]       
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) xform=0x04 time=871879.8053 scale=SCALE_TO_WINDOW
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)    09:0xa960e1a0     
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) crop=[0,0,0,0]       
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) xform=0x04 time=871879.8554 scale=SCALE_TO_WINDOW
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)    03:0xa931c980     
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) crop=[0,0,0,0]       
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) xform=0x04 time=871879.9056 scale=SCALE_TO_WINDOW
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)    10:0xdea65440     
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) crop=[0,0,0,0]       
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) xform=0x04 time=871879.9557 scale=SCALE_TO_WINDOW
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)    11:0xdea67100 
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) crop=[0,0,0,0]       
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) xform=0x04 time=871880.0058 scale=SCALE_TO_WINDOW
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)    04:0xa931dba0     
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) crop=[0,0,0,0]       
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) xform=0x04 time=871880.0560 scale=SCALE_TO_WINDOW
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)    05:0xa960b680     
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) crop=[0,0,0,0]       
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) xform=0x04 time=871880.1061 scale=SCALE_TO_WINDOW
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)    00:0xdea65080     
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) crop=[0,0,0,0]       
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) xform=0x04 time=871880.1562 scale=SCALE_TO_WINDOW
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)    01:0xedf52dc0     
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) crop=[0,0,0,0]       
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) xform=0x04 time=871880.2064 scale=SCALE_TO_WINDOW
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)    08:0xa960cee0     
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) crop=[0,0,0,0]       
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) xform=0x04 time=871880.2565 scale=SCALE_TO_WINDOW
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)    06:0xa960bb80     
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) crop=[0,0,0,0]       
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) xform=0x04 time=871880.3066 scale=SCALE_TO_WINDOW
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) dumpState2 Slots:    
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) dumpState2  [00:0xdea65080]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) state=QUEUED   0xa9a36100 frame=385
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)  [ 320x 240: 320, 23]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) dumpState2  [01:0xedf52dc0]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) state=QUEUED   0xdf16ec80 frame=386
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)  [ 320x 240: 320, 23]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) dumpState2  [02:0xedf52e60]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) state=QUEUED   0xdf17db40 frame=378
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)  [ 320x 240: 320, 23]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) dumpState2  [03:0xa931c980]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) state=QUEUED   0xdf17e740 frame=380
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)  [ 320x 240: 320, 23]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) dumpState2  [04:0xa931dba0]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) state=QUEUED   0xdf17df00 frame=383
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)  [ 320x 240: 320, 23]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) dumpState2  [05:0xa960b680]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) state=QUEUED   0xdf17dfc0 frame=384
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)  [ 320x 240: 320, 23]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) dumpState2  [06:0xa960bb80]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) state=QUEUED   0xdf17e8c0 frame=388
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)  [ 320x 240: 320, 23]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) dumpState2 >[07:0xa960be00]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) state=ACQUIRED 0xdf17e980 frame=377
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)  [ 320x 240: 320, 23]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) dumpState2  [08:0xa960cee0]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) state=QUEUED   0xdf17ea40 frame=387
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)  [ 320x 240: 320, 23]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) dumpState2  [09:0xa960e1a0]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) state=QUEUED   0xdf17eb00 frame=379
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)  [ 320x 240: 320, 23]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) dumpState2  [10:0xdea65440]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) state=QUEUED   0xdf17ebc0 frame=381
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)  [ 320x 240: 320, 23]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) dumpState2  [11:0xdea67100]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) state=QUEUED   0xdf17ed40 frame=382
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)  [ 320x 240: 320, 23]
+E/BufferQueueProducer( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) SPRDDEBUG BufferQueueProducer Dumpstate2
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) dumpState2- BufferQueue
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) mMaxAcquiredBufferCount=4 mMaxDequeuedBufferCount=8
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) dumpState2  mDequeueBufferCannotBlock=0 mAsyncMode=0
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) dumpState2  default-size=[320x240] default-format=35
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) transform-hint=00 frame-counter=388
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)
+E/BufferQueueCore( 1281): dumpState2 FIFO(11):
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)    02:0xedf52e60     
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) crop=[0,0,0,0]       
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) xform=0x04 time=871879.8053 scale=SCALE_TO_WINDOW
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)    09:0xa960e1a0     
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) crop=[0,0,0,0]       
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) xform=0x04 time=871879.8554 scale=SCALE_TO_WINDOW
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)    03:0xa931c980     
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) crop=[0,0,0,0]       
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) xform=0x04 time=871879.9056 scale=SCALE_TO_WINDOW
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)    10:0xdea65440     
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) crop=[0,0,0,0]       
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) xform=0x04 time=871879.9557 scale=SCALE_TO_WINDOW
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)    11:0xdea67100     
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) crop=[0,0,0,0]       
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) xform=0x04 time=871880.0058 scale=SCALE_TO_WINDOW
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)    04:0xa931dba0     
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) crop=[0,0,0,0]       
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) xform=0x04 time=871880.0560 scale=SCALE_TO_WINDOW
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)    05:0xa960b680     
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) crop=[0,0,0,0]       
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) xform=0x04 time=871880.1061 scale=SCALE_TO_WINDOW
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)    00:0xdea65080     
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) crop=[0,0,0,0]       
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) xform=0x04 time=871880.1562 scale=SCALE_TO_WINDOW
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)    01:0xedf52dc0     
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) crop=[0,0,0,0]       
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) xform=0x04 time=871880.2064 scale=SCALE_TO_WINDOW
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)    08:0xa960cee0     
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) crop=[0,0,0,0]       
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) xform=0x04 time=871880.2565 scale=SCALE_TO_WINDOW
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)    06:0xa960bb80     
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) crop=[0,0,0,0]       
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) xform=0x04 time=871880.3066 scale=SCALE_TO_WINDOW
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) dumpState2 Slots:    
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) dumpState2  [00:0xdea65080]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) state=QUEUED   0xa9a36100 frame=385
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)  [ 320x 240: 320, 23]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) dumpState2  [01:0xedf52dc0]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) state=QUEUED   0xdf16ec80 frame=386
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)  [ 320x 240: 320, 23]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) dumpState2  [02:0xedf52e60]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) state=QUEUED   0xdf17db40 frame=378
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)  [ 320x 240: 320, 23]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) dumpState2  [03:0xa931c980]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) state=QUEUED   0xdf17e740 frame=380
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)  [ 320x 240: 320, 23]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) dumpState2  [04:0xa931dba0]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) state=QUEUED   0xdf17df00 frame=383
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)  [ 320x 240: 320, 23]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) dumpState2  [05:0xa960b680]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) state=QUEUED   0xdf17dfc0 frame=384
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)  [ 320x 240: 320, 23]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) dumpState2  [06:0xa960bb80]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) state=QUEUED   0xdf17e8c0 frame=388
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)  [ 320x 240: 320, 23]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) dumpState2 >[07:0xa960be00]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) state=ACQUIRED 0xdf17e980 frame=377
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)  [ 320x 240: 320, 23]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) dumpState2  [08:0xa960cee0]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) state=QUEUED   0xdf17ea40 frame=387
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)  [ 320x 240: 320, 23]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) dumpState2  [09:0xa960e1a0]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) state=QUEUED   0xdf17eb00 frame=379
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)  [ 320x 240: 320, 23]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) dumpState2  [10:0xdea65440]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) state=QUEUED   0xdf17ebc0 frame=381
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)  [ 320x 240: 320, 23]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) dumpState2  [11:0xdea67100]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) state=QUEUED   0xdf17ed40 frame=382
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)  [ 320x 240: 320, 23]
+E/BufferQueueProducer( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) SPRDDEBUG BufferQueueProducer Dumpstate2
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) dumpState2- BufferQueue
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) mMaxAcquiredBufferCount=4 mMaxDequeuedBufferCount=8
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) dumpState2  mDequeueBufferCannotBlock=0 mAsyncMode=0
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) dumpState2  default-size=[320x240] default-format=35
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) transform-hint=00 frame-counter=410
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)
+E/BufferQueueCore( 1281): dumpState2 FIFO(11):
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)    06:0xa960bb80     
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) crop=[0,0,0,0]       
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) xform=0x04 time=871883.7157 scale=SCALE_TO_WINDOW
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)    02:0xedf52e60     
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) crop=[0,0,0,0]       
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) xform=0x04 time=871883.7658 scale=SCALE_TO_WINDOW
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)    07:0xa960be00     
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) crop=[0,0,0,0]       
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) xform=0x04 time=871883.8159 scale=SCALE_TO_WINDOW
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)    09:0xa960e1a0     
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) crop=[0,0,0,0]       
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) xform=0x04 time=871883.8661 scale=SCALE_TO_WINDOW
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)    03:0xa931c980     
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) crop=[0,0,0,0] 
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) xform=0x04 time=871883.9162 scale=SCALE_TO_WINDOW
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)    10:0xdea65440     
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) crop=[0,0,0,0]       
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) xform=0x04 time=871883.9663 scale=SCALE_TO_WINDOW
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)    11:0xdea67100     
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) crop=[0,0,0,0]       
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) xform=0x04 time=871884.0165 scale=SCALE_TO_WINDOW
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)    04:0xa931dba0     
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) crop=[0,0,0,0]       
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) xform=0x04 time=871884.0666 scale=SCALE_TO_WINDOW
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)    05:0xa960b680     
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) crop=[0,0,0,0]       
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) xform=0x04 time=871884.1167 scale=SCALE_TO_WINDOW
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)    00:0xdea65080     
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) crop=[0,0,0,0]       
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) xform=0x04 time=871884.1669 scale=SCALE_TO_WINDOW
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)    01:0xedf52dc0     
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) crop=[0,0,0,0]       
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) xform=0x04 time=871884.2170 scale=SCALE_TO_WINDOW
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) dumpState2 Slots:    
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) dumpState2  [00:0xdea65080]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) state=QUEUED   0xa9a36100 frame=409
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)  [ 320x 240: 320, 23]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) dumpState2  [01:0xedf52dc0]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) state=QUEUED   0xdf16ec80 frame=410
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)  [ 320x 240: 320, 23]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) dumpState2  [02:0xedf52e60]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) state=QUEUED   0xdf17db40 frame=401
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)  [ 320x 240: 320, 23]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) dumpState2  [03:0xa931c980]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) state=QUEUED   0xdf17e740 frame=404
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)  [ 320x 240: 320, 23]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) dumpState2  [04:0xa931dba0]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) state=QUEUED   0xdf17df00 frame=407
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)  [ 320x 240: 320, 23]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) dumpState2  [05:0xa960b680]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) state=QUEUED   0xdf17dfc0 frame=408
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)  [ 320x 240: 320, 23]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) dumpState2  [06:0xa960bb80]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) state=QUEUED   0xdf17e8c0 frame=400
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)  [ 320x 240: 320, 23]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) dumpState2  [07:0xa960be00]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) state=QUEUED   0xdf17e980 frame=402
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)  [ 320x 240: 320, 23]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) dumpState2 >[08:0xa960cee0]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) state=ACQUIRED 0xdf17ea40 frame=399
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)  [ 320x 240: 320, 23]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) dumpState2  [09:0xa960e1a0]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) state=QUEUED   0xdf17eb00 frame=403
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)  [ 320x 240: 320, 23]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) dumpState2  [10:0xdea65440]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) state=QUEUED   0xdf17ebc0 frame=405
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)  [ 320x 240: 320, 23]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) dumpState2  [11:0xdea67100]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) state=QUEUED   0xdf17ed40 frame=406
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)  [ 320x 240: 320, 23]
+E/BufferQueueProducer( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) SPRDDEBUG BufferQueueProducer Dumpstate2
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) dumpState2- BufferQueue
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) mMaxAcquiredBufferCount=4 mMaxDequeuedBufferCount=8
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) dumpState2  mDequeueBufferCannotBlock=0 mAsyncMode=0
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) dumpState2  default-size=[320x240] default-format=35
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) transform-hint=00 frame-counter=410
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)
+E/BufferQueueCore( 1281): dumpState2 FIFO(11):
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)    06:0xa960bb80     
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) crop=[0,0,0,0]       
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) xform=0x04 time=871883.7157 scale=SCALE_TO_WINDOW
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)    02:0xedf52e60     
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) crop=[0,0,0,0]       
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) xform=0x04 time=871883.7658 scale=SCALE_TO_WINDOW
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)    07:0xa960be00     
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) crop=[0,0,0,0]       
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) xform=0x04 time=871883.8159 scale=SCALE_TO_WINDOW
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)    09:0xa960e1a0     
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) crop=[0,0,0,0]       
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) xform=0x04 time=871883.8661 scale=SCALE_TO_WINDOW
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)    03:0xa931c980     
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) crop=[0,0,0,0]       
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) xform=0x04 time=871883.9162 scale=SCALE_TO_WINDOW
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)    10:0xdea65440     
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) crop=[0,0,0,0]       
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) xform=0x04 time=871883.9663 scale=SCALE_TO_WINDOW
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)    11:0xdea67100     
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) crop=[0,0,0,0]       
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) xform=0x04 time=871884.0165 scale=SCALE_TO_WINDOW
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)    04:0xa931dba0     
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) crop=[0,0,0,0]       
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) xform=0x04 time=871884.0666 scale=SCALE_TO_WINDOW
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)    05:0xa960b680     
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) crop=[0,0,0,0]       
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) xform=0x04 time=871884.1167 scale=SCALE_TO_WINDOW
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)    00:0xdea65080     
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) crop=[0,0,0,0]       
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) xform=0x04 time=871884.1669 scale=SCALE_TO_WINDOW
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)    01:0xedf52dc0     
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) crop=[0,0,0,0] 
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) xform=0x04 time=871884.2170 scale=SCALE_TO_WINDOW
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) dumpState2 Slots:    
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) dumpState2  [00:0xdea65080]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) state=QUEUED   0xa9a36100 frame=409
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)  [ 320x 240: 320, 23]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) dumpState2  [01:0xedf52dc0]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) state=QUEUED   0xdf16ec80 frame=410
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)  [ 320x 240: 320, 23]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) dumpState2  [02:0xedf52e60]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) state=QUEUED   0xdf17db40 frame=401
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)  [ 320x 240: 320, 23]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) dumpState2  [03:0xa931c980]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) state=QUEUED   0xdf17e740 frame=404
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)  [ 320x 240: 320, 23]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) dumpState2  [04:0xa931dba0]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) state=QUEUED   0xdf17df00 frame=407
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)  [ 320x 240: 320, 23]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) dumpState2  [05:0xa960b680]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) state=QUEUED   0xdf17dfc0 frame=408
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)  [ 320x 240: 320, 23]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) dumpState2  [06:0xa960bb80]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) state=QUEUED   0xdf17e8c0 frame=400
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)  [ 320x 240: 320, 23]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) dumpState2  [07:0xa960be00]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) state=QUEUED   0xdf17e980 frame=402
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)  [ 320x 240: 320, 23]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) dumpState2 >[08:0xa960cee0]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) state=ACQUIRED 0xdf17ea40 frame=399
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)  [ 320x 240: 320, 23]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) dumpState2  [09:0xa960e1a0]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) state=QUEUED   0xdf17eb00 frame=403
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)  [ 320x 240: 320, 23]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) dumpState2  [10:0xdea65440]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) state=QUEUED   0xdf17ebc0 frame=405
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281)  [ 320x 240: 320, 23]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) dumpState2  [11:0xdea67100]
+E/BufferQueueCore( 1281): [ImageReader-320x240f23m4-1281-1](id:50100000003,api:4,p:947,c:1281) state=QUEUED   0xdf17ed40 frame=406

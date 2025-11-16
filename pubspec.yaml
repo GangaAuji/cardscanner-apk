@@ -1,0 +1,39 @@
+name: card_detector_app
+description: "A Flutter app for card detection."
+
+# Prevent accidental publishing to pub.dev.
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # Core packages for this task
+  camera: ^0.11.0 # For accessing the camera feed
+  tflite_flutter: ^0.10.4 # Low-level TFLite integration
+  image: ^4.1.7 # For image processing (YUV conversion, cropping, resizing)
+  path_provider: ^2.1.3 # To find the correct local path to save files
+  permission_handler: ^11.3.1 # To request camera and storage permissions
+  
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^3.0.0
+
+# Add this section to your pubspec.yaml
+flutter:
+  uses-material-design: true
+
+  # --- IMPORTANT ---
+  # Your new model and label files are listed here.
+  # Make sure 'id_card_best_float32.tflite' and 'labels.txt'
+  # are in the 'assets/' folder.
+  assets:
+    - assets/id_card_best_float32.tflite
+    - assets/labels.txt
